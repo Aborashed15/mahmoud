@@ -1,0 +1,7 @@
+﻿  Source1.cpp
+c:\users\user\desktop\consoleapplication2\source1.cpp(17): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  Source.cpp
+c:\users\user\desktop\consoleapplication2\source.cpp(17): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  ConsoleApplication2.cpp
+c:\users\user\desktop\consoleapplication2\consoleapplication2.cpp(17): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  Generating Code...
